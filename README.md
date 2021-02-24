@@ -13,6 +13,8 @@ http://scidvspc.sourceforge.net/
 
 To replace pieces extract chesslook.rar and replace them in media files.
 
+This fork is mainly to customize @Toweksniffer's Anki-Chess-2.0, feel free to create a pull request for new pieces and board textures.
+
 
 <a href="https://gifyu.com/image/ZhEd"><img src="https://s4.gifyu.com/images/outputfa404e93de6a4ca2.gif" alt="outputfa404e93de6a4ca2.gif" border="0" /></a>
 <a href="https://gifyu.com/image/Zhv3"><img src="https://s4.gifyu.com/images/output2.gif" alt="output2.gif" border="0" /></a>
