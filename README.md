@@ -11,7 +11,7 @@ https://sourceforge.net/projects/chessx/
 
 http://scidvspc.sourceforge.net/
 
-
+To replace pieces extract chesslook.rar and replace them in media files.
 
 
 <a href="https://gifyu.com/image/ZhEd"><img src="https://s4.gifyu.com/images/outputfa404e93de6a4ca2.gif" alt="outputfa404e93de6a4ca2.gif" border="0" /></a>
