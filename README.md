@@ -5,7 +5,13 @@ Changes :
 2. To do : Optimize for smaller screen
 3. Will Kill Mobile support
 
+Source for the pieces : FritzSWS from chessx and Goldenberg high dpi pieces from SCIDvsPC
+
+https://sourceforge.net/projects/chessx/
+http://scidvspc.sourceforge.net/
+
 This will be updated as u/TowelSniffer updates his project. 
+
 
 <a href="https://gifyu.com/image/ZhEd"><img src="https://s4.gifyu.com/images/outputfa404e93de6a4ca2.gif" alt="outputfa404e93de6a4ca2.gif" border="0" /></a>
 <a href="https://gifyu.com/image/Zhv3"><img src="https://s4.gifyu.com/images/output2.gif" alt="output2.gif" border="0" /></a>
