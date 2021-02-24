@@ -2,8 +2,7 @@ Fork of https://github.com/TowelSniffer/Anki-Chess-2.0
 
 Changes : 
 1. Keep png pieces instead of svg, for better custom pieces support. 
-2. To do : Optimize for smaller screen
-3. Will Kill Mobile support
+
 
 Source for the pieces : FritzSWS from chessx and Goldenberg high dpi pieces from SCIDvsPC
 
@@ -11,7 +10,7 @@ https://sourceforge.net/projects/chessx/
 
 http://scidvspc.sourceforge.net/
 
-To replace pieces extract chesslook.rar and replace them in media files.
+To replace pieces copy files from within pieces folders to Media files.
 
 This fork is mainly to customize @Towelsniffer's Anki-Chess-2.0, feel free to create a pull request for new pieces and board textures.
 
