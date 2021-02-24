@@ -2,6 +2,8 @@ Fork of https://github.com/TowelSniffer/Anki-Chess-2.0
 
 Changes : 
 1. Keep png pieces instead of svg, for better custom pieces support. 
+2. Update chess.js 2016 -> 2021 (fixes all whitespace, comment) problems while parsing pgn from anki
+3. Update chessboard.js
 
 
 Source for the pieces : FritzSWS from chessx and Goldenberg high dpi pieces from SCIDvsPC
